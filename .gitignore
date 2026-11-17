@@ -1,0 +1,3 @@
+src/xv6fs
+src/*.o
+images/fs-work.img
